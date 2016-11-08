@@ -1,0 +1,4 @@
+1) isEmpty returns true regardless of size of list.
+2) removeFront does not remove the front node of the list.
+3) removeBack does not remove the back node of the list.
+4) addBack adds nodes to the front of the list.
